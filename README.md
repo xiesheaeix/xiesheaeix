@@ -1,5 +1,5 @@
 ### Hi there 👋
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xiesheaeix)](https://github.com/xiesheaeix/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xiesheaeix&layout=compact)](https://github.com/xiesheaeix/github-readme-stats)
 <!--
 **xiesheaeix/xiesheaeix** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
